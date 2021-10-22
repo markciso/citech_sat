@@ -1,0 +1,54 @@
+body{
+    font-size: 14px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table td, .table th{
+    border: 1px solid black;
+    padding: 3px;
+    /*word-wrap: break-word;*/
+    vertical-align: top;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.pull-right{
+    float: right;
+}
+
+.pull-left{
+    float: left;
+}
+
+.pull-bottom{
+    position: absolute;
+    bottom: 50px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.title{
+    font-size: 18px;
+}
+
+.form_title{
+    font-size: 17px;
+}
+
+.bar{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: .5px solid black;
+}
+
+.underlined{
+    /*text-decoration: underline; */
+}
