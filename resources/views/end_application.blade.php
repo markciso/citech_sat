@@ -36,7 +36,7 @@
         <hr>
         <div class="row p-3">
             <div class="col-sm-12">
-               <center><h1><strong>Entrance Exam Application is already done</strong></h1></center>
+               <center><h1><strong>Entrance Exam Application is already done!</strong></h1></center>
                <br><br>
                <h3>For concerns and further announcements, you can visit the following:</h3>
                <br><br>
